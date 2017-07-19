@@ -180,7 +180,7 @@
         <div class="col l3 s12">
           <h5 class="white-text">Contacts</h5>
           <ul>
-            <li><a class="white-text" href="#!"><i class="tiny material-icons"> call </i> +601153371272</a></li>
+            <li><a class="white-text" href="#!"><i class="tiny material-icons"> call </i> +601153371272 / +601137535521</a></li>
             <li><a class="white-text" href="#!"><i class="tiny material-icons"> email </i>  graduatemalaysia@gmail.com</a></li>
             <li><a class="white-text" href="#!"><i class="tiny material-icons"> videocam </i>  graduate@malaysia</a></li>
             <li><a class="white-text" href="#!"><i class="tiny material-icons"> face </i>  graduateMalaysia</a></li>
